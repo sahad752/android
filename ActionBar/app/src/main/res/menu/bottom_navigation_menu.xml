@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      >
+
+    <item
+        android:id="@+id/ic_arrow"
+        android:icon="@drawable/ic_android"
+        android:title="Crowdfunding"
+        />
+
+        <item
+            android:id="@+id/ic_android"
+            android:icon="@drawable/ic_donut_large_black_24dp"
+            android:title="Circles"
+            />
+        <item
+            android:id="@+id/ic_books"
+            android:icon="@drawable/ic_account_balance_wallet_black_24dp"
+            android:title="Wallet"
+            />
+        <item
+            android:id="@+id/ic_center_focus"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="Settings"
+            />
+
+
+
+
+
+</menu>
